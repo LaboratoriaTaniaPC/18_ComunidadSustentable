@@ -1,0 +1,74 @@
+/* Inserta tu codigo aqui */
+
+*{
+
+
+	display: center;
+}
+
+.gris{
+
+  background-color: #BDBDBD;
+  padding:5%;
+
+}
+
+
+.perlita{
+
+  background-color: #F2F5A9;
+  padding:5%;
+
+}
+
+.verde-olivo{
+
+  background-color: #21610B;
+  padding:5%;
+
+}
+
+.espacio {
+
+
+	align:center; 
+}
+
+.foto-redonda{
+
+
+	border-radius: 100%;
+}
+
+.lid{
+
+	width: 103%;
+}
+
+
+.verde{
+
+	background-image: url("../img/fondo.jpg"); 
+}
+
+span {
+
+	font-size:25px;
+}
+
+.iconos{
+
+	width: 20%;
+	height: 20%;
+}
+
+.fondin{
+
+	background-image: url("../img/fondo2.jpg"); 
+
+}
+
+
+
+
+}
